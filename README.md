@@ -6,10 +6,10 @@
 
 
 ## 🚀 About Me
-I'm a Java programmer and technology lover
+I'm a Fullstack programmer and technology lover
 
 ## 🛠 Skills
-Java, Spring, Python, SQL & NOSQL, Redis, Paper-spigot...
+Java, Spring, Angular, Python, SQL & NOSQL, Redis, Paper-spigot...
 
 ## :books: Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcefalo&theme=dark&hide=python)](https://github.com/samcefalo/)
