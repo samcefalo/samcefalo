@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a Fullstack programmer and technology lover
+I'm a Fullstack developer and technology lover
 
 ## 🛠 Skills
 Java, Spring, Angular, SQL & NOSQL, Redis, Python, Paper-spigot...
